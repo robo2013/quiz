@@ -2,6 +2,16 @@
 
 출제자가 객관식 퀴즈를 만들고, 수검자가 이름을 입력해 풀면 즉시 채점 결과를 받아보는 웹 앱입니다.
 
+## 화면
+
+| 이름/역할 입력 | 퀴즈 편집 (출제자) | 내 퀴즈 목록 (출제자) |
+| --- | --- | --- |
+| ![이름/역할 입력](public/screenshots/landing.png) | ![퀴즈 편집](public/screenshots/create-edit.png) | ![내 퀴즈 목록](public/screenshots/create-list.png) |
+
+| 풀 수 있는 퀴즈 (수검자) | 퀴즈 풀이 | 채점 결과 |
+| --- | --- | --- |
+| ![풀 수 있는 퀴즈](public/screenshots/quizzes-list.png) | ![퀴즈 풀이](public/screenshots/quiz-taking.png) | ![채점 결과](public/screenshots/quiz-result.png) |
+
 ## 주요 기능
 
 - **이름 + 역할 입력**: 로그인 없이 이름과 역할(출제자/수검자)만 입력하면 세션이 생성됩니다.

@@ -42,3 +42,6 @@ next-env.d.ts
 
 # local vercel token file (not committed)
 .vercel-token
+
+# playwright MCP snapshots
+/.playwright-mcp/
